@@ -27,14 +27,10 @@
      4- npm run react-dev.
      5- sudo mongod.
 
-#Deployment link
-https://afternoon-castle-25603.herokuapp.com/
- visit us
-
 # Demo for website:
- 	-navigate our website in any browser, and follow theis steps :
+ 	- ### navigate our website in any browser, and follow theis steps :
  	* the home page
- 	![alt text](screenshots/home.png "home page")
+ 	![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/cbu90-z2wj2.png)
 
  	* sigin up as backery
  	![alt text](screenshots/siginupB.png "Backery signup page")
