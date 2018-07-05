@@ -31,17 +31,11 @@
  	- ### navigate our website in any browser, and follow theis steps :
  	* the home page
  	![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/cbu90-z2wj2.png)
+
+
+
+        <img src="http://i288.photobucket.com/albums/ll175/michaelcheng429/meanstacktutorial_zpsu72ixs47.png" alt="mean stack tutorial app">
         ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-        [![Watch the video](https://s4.aconvert.com/convert/p3r68-cdx67/cbu90-z2wj2.png)](https://s4.aconvert.com/convert/p3r68-cdx67/cbu90-z2wj2.png)
-
-
-
-
-
-
-
-     
  	* sigin up as backery
  	![alt text](screenshots/siginupB.png "Backery signup page")
 
