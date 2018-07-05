@@ -31,6 +31,7 @@
  	- ### navigate our website in any browser, and follow theis steps :
  	* the home page
  	![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/cbu90-z2wj2.png)
+        ![stack Overflow](http://lmsotfy.com/so.png)
 
  	* sigin up as backery
  	![alt text](screenshots/siginupB.png "Backery signup page")
