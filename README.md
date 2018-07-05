@@ -32,6 +32,15 @@
  	* the home page
  	![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/cbu90-z2wj2.png)
         ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+        [![Watch the video](https://s4.aconvert.com/convert/p3r68-cdx67/cbu90-z2wj2.png)](https://s4.aconvert.com/convert/p3r68-cdx67/cbu90-z2wj2.png)
+
+
+
+
+
+
+
      
  	* sigin up as backery
  	![alt text](screenshots/siginupB.png "Backery signup page")
