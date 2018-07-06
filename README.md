@@ -28,12 +28,14 @@
      5- sudo mongod.
 
 # Demo for website:
-  [![Alt text for your video](https://i.ytimg.com/vi/CzUiA0JCsWk/3.jpg)](https://www.youtube.com/watch?v=CzUiA0JCsWk&feature=youtu.be)
+  [![Alt text for your video](https://j.gifs.com/oQrvwY.gif)](https://www.youtube.com/watch?v=CzUiA0JCsWk&feature=youtu.be)
 
 # Team members:
- team name "unknown-error-4"
+ Team Name "unknown-error-4"
+```
  1- zoulfa alboab "scrum master".
  2- fatima almostafa "product owner".
  3- afaq smadi "team member".
  4- faris arabi "team member".
+```
 
