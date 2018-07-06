@@ -28,37 +28,7 @@
      5- sudo mongod.
 
 # Demo for website:
- 	- ### navigate our website in any browser, and follow theis steps :
- 	* the home page
- 	![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/cbu90-z2wj2.png)
-
-
-
-        <img src="http://i288.photobucket.com/albums/ll175/michaelcheng429/meanstacktutorial_zpsu72ixs47.png" alt="mean stack tutorial app">
-        ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
- 	* sigin up as backery
- 	![alt text](screenshots/siginupB.png "Backery signup page")
-
- 	* singup as customer
- 	![alt text](screenshots/signupC.png "customer signup page")
-
- 	* login as backery
- 	![alt text](screenshots/loginBackery.png "login as backery")
-
- 	*login as customer
- 	![alt text](screenshots/loginCustomuer.png "login as customer")
-
- 	* profile
- 	![alt text](screenshots/profil.png "profile")
-
- 	* backry list
- 	![alt text](screenshots/backeryList.png "list the backery products")
-
- 	* Add products
- 	![alt text](screenshots/addProduct.png "backery adds his products")
-
- 	* E-payment
- 	![alt text](screenshots/ePayment.png "user pay online")
+  [![Alt text for your video](https://i.ytimg.com/vi/CzUiA0JCsWk/3.jpg)](https://www.youtube.com/watch?v=CzUiA0JCsWk&feature=youtu.be)
 
 # Team members:
  team name "unknown-error-4"
@@ -67,4 +37,3 @@
  3- afaq smadi "team member".
  4- faris arabi "team member".
 
-contacte us on : zoulfa90@gamil.com
